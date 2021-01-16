@@ -1,0 +1,12 @@
+| Course Name                                   | Offered By           | Instructors                     | Link                                                         | Personal Coverage | hand_note name   | Personal Rating |
+| --------------------------------------------- | -------------------- | ------------------------------- | ------------------------------------------------------------ | ----------------- | ---------------- | --------------- |
+| MIT 6.046J : Introduction to Algorithms, 2005 | MIT Open Course Ware | Charles Leiserson, Erik Demaine | [https://www.youtube.com/playlist?list=PL8B24C31197EC371C ](https://www.youtube.com/playlist?list=PL8B24C31197EC371C) | Up to Lecture 7   | MIT_6046_2005_p* |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+|                                               |                      |                                 |                                                              |                   |                  |                 |
+
