@@ -1,6 +1,6 @@
 | Course Name           | Offered By                                 | Instructors                            | Link                                                 | Personal Coverage | hand_note name | Personal Rating |
-| --------------------- | ------------------------------------------ | -------------------------------------- | ---------------------------------------------------- | ----------------- | -------------- | --------------- |
-| Learning How To Learn | McMaster U. and U. of California San Diego | Barbara Oakley, Dr. Terrance Sejnowski | https://www.coursera.org/learn/learning-how-to-learn | Week 1            | learn_how      |                 |
+| --------------------- | ------------------------------------------ | -------------------------------------- | ---------------------------------------------------- | ----------------- | -------------- | :-------------: |
+| Learning How To Learn | McMaster U. and U. of California San Diego | Barbara Oakley, Dr. Terrance Sejnowski | https://www.coursera.org/learn/learning-how-to-learn | Week 1            | learn_how      |        5        |
 |                       |                                            |                                        |                                                      |                   |                |                 |
 |                       |                                            |                                        |                                                      |                   |                |                 |
 |                       |                                            |                                        |                                                      |                   |                |                 |
