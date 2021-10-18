@@ -35,7 +35,7 @@ v) TOEFL with Juva YouTube Channel: https://www.youtube.com/channel/UCOPB7UX9lyG
   - Keep some time aside for revision.
 - **Overall:**
   - Do not burn yourself out. This is not the end of the world.
-  - If you can manage, try to follow GregMat resources even if they are paid. You can get all GregMat resources for 5 USD per months which is very cheap for the content it provides.
+  - If you can manage, try to follow GregMat resources even if they are paid. You can get all GregMat resources for 5 USD per month which is very cheap for the content they provide.
 
 **Disclaimer:** <br/>
 
