@@ -1,0 +1,12 @@
+| Course Name                     | Offered By          | Instructors            | Link                                                         | Personal Coverage | hand_note , assignments and others | Personal Rating |
+| ------------------------------- | ------------------- | ---------------------- | ------------------------------------------------------------ | ----------------- | ---------------------------------- | --------------- |
+| Bayyinah Dream Intensive Part 1 | Bayyinah  Institute | Ustadh Nouman Ali Khan | [[YouTube Playlist](https://www.youtube.com/playlist?list=PLutdSTmJ7bAKZdXPAjG3-T7OuByMRYa6z)] [[Course Website](https://www.dreamworldwide.net/study-resource)] | Day 1             | Google Drive Link will be provided |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+|                                 |                     |                        |                                                              |                   |                                    |                 |
+
